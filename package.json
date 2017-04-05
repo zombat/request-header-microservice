@@ -1,6 +1,6 @@
 {
   "name": "request-microservice-zombat",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Free Code Camp Request Header Microservice",
   "main": "requestHeader.js",
   "scripts": {
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/zombat/request-header-microservice/issues"
   },
-  "homepage": "https://github.com/zombat/request-header-microservice#readme"
+  "homepage": "https://github.com/zombat/request-header-microservice#readme",
+  "dependencies": {
+    "foobar": "^1.1.0"
+  }
 }
