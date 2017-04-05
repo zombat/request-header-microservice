@@ -14,4 +14,4 @@ app.get('/', function(request, response){
     response.end(JSON.stringify(requestHeaders));
 });
 
-http.createServer(app).listen(process.env.PORT);
+app.listen(process.env.PORT);
