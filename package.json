@@ -1,0 +1,24 @@
+{
+  "name": "request-microservice-zombat",
+  "version": "1.0.0",
+  "description": "Free Code Camp Request Header Microservice",
+  "main": "requestHeader.js",
+  "scripts": {
+    "test": "node requestHeader.js",
+    "start": "node requestHeader.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zombat/request-header-microservice.git"
+  },
+  "keywords": [
+    "FreeCodeCamp",
+    "Node.js"
+  ],
+  "author": "Raymond Rizzo",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/zombat/request-header-microservice/issues"
+  },
+  "homepage": "https://github.com/zombat/request-header-microservice#readme"
+}
