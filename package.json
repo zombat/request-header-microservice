@@ -1,6 +1,6 @@
 {
   "name": "request-microservice-zombat",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Free Code Camp Request Header Microservice",
   "main": "requestHeader.js",
   "scripts": {
